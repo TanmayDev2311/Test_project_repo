@@ -4,3 +4,7 @@ h1{
 p{
     background-color: yellow;
 }
+.box{
+    border: 2px solid green;
+    font-size: 24px;
+}
